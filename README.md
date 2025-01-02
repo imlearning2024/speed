@@ -1,4 +1,4 @@
-> Try this browser [click](https://imlearning2024.github.io/speed/)
+> Try this in browser [click](https://imlearning2024.github.io/speed/)
 
 # Typing Speed Test Web Application
 
