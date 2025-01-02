@@ -1,3 +1,5 @@
+> Try this browser [click](https://imlearning2024.github.io/speed/)
+
 # Typing Speed Test Web Application
 
 Welcome to the Typing Speed Test Web Application! This project is designed to improve your typing skills while providing real-time feedback, speed tracking, and highlighting functionality. The app is lightweight and interactive, offering a simple but effective way to measure and boost your typing speed.
