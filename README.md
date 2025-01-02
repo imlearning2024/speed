@@ -24,3 +24,5 @@ Welcome to the Typing Speed Test Web Application! This project is designed to im
    ```bash
    git clone https://github.com/imlearning2024/typing-speed-test.git
    cd typing-speed-test
+
+> Try this in browser [click](https://imlearning2024.github.io/speed/)
